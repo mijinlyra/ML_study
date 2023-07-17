@@ -1,1 +1,1 @@
-# ML_study
+On my journey in Machine Learning
